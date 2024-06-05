@@ -11,6 +11,7 @@ Já que não sei muito sobre o assunto e estava um pouco curiosa sobre medicina,
 
 ## 🚀 Resultados
 O artigo apresenta alguns exemplos de como a IA Generativa atua na medicina na atualidade e demonstra perspectivas futuras, mostrando como as IAs Genativas podem ser cruciais para a humanidade futuramente.
+
 [ARTIGO AQUI](https://github.com/malubarreto/lab-natty-or-not/blob/main/Como%20Aplicar%20a%20Inteligência%20Artificial%20Generativa%20na%20Medicina.pdf)
 
 ## 💭 Reflexão (Opcional)
