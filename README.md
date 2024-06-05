@@ -1,7 +1,7 @@
 # Como Aplicar a Inteligência Artificial Generativa na Medicina
 
 ## 📒 Descrição
-Esse projeto tem o objetivo de investigar o como as IAs Generativas podem auxiliar na medicina, que é uma área essencial para as pessoas, que muda diariamente a vida delas, porém, com a ajuda da IA Generativa, pode ajudar mais pessoas ainda. Por isso, criei um artigo sobre como aplicar a Inteligência Artificial Generativa na medicina usando o ChatGPT.
+Esse projeto tem o objetivo de investigar o como as IAs Generativas podem auxiliar na medicina, uma área essencial para as pessoas, que muda diariamente a vida delas, porém, com a ajuda da IA Generativa, pode ajudar mais pessoas ainda. Por isso, criei um artigo sobre como aplicar a Inteligência Artificial Generativa na medicina usando o ChatGPT.
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT, Craiyon, Canva
